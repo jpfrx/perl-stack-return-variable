@@ -1,0 +1,35 @@
+The "perl-stack-return-variable" repository consists of architectural 
+documentation, custom implementations, and experimental modifications 
+to the Perl 5 core source code.
+
+1. CORE PERL MODIFICATIONS
+The modifications and patches to the Perl core engine files (such as 
+regcomp.c, regexec.c, and regcomp.h) are free software; you can 
+redistribute them and/or modify them under the same terms as Perl 5 
+itself (either the Artistic License 1.0 or the GNU General Public License).
+
+2. ORIGINAL DOCUMENTATION AND PATTERNS
+The unique design patterns, documentation (including RFC.md), and original 
+scripts created solely by the author in this repository are licensed 
+under the MIT License:
+
+Copyright (c) 2026 jpfrx
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
